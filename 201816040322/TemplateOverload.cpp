@@ -133,7 +133,6 @@ int main()
    cout << elements << " elements were output" << endl;
 } // end main
 
-
 /**************************************************************************
  * (C) Copyright 1992-2012 by Deitel & Associates, Inc. and               *
  * Pearson Education, Inc. All Rights Reserved.                           *
